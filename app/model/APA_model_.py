@@ -6,10 +6,9 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, mean_absolute_error, r2_score, mean_squared_error, confusion_matrix, classification_report
-from sklearn.preprocessing import StandardScaler
-from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 from scipy.sparse import hstack, csr_matrix
-from features import extract_features
+from app.model.features import extract_features
 import joblib
 
 
@@ -32,6 +31,7 @@ X_text = df['reference_text'].values
 y = df['label'].values
 
 # 3. Convert reference text numpy array
+
 cv = CountVectorizer()
 X_text_vec = cv.fit_transform(X_text)
 
@@ -80,30 +80,6 @@ print(r2_score(y_test, y_pred))
 
 # . Predict on new data
 
-# new_data = {
-#     'text': 'TSmith, J. A. (2020). Understanding the mind. Penguin Books.'
-# }
-
-# data = pd.DataFrame([new_data])
-# text = data['text']
-# transformed_text = cv.transform(text)
-# ext_f = [extract_features(text)]
-# rule_df_test = pd.DataFrame(ext_f)
-# X_rules_test = csr_matrix(rule_df_test.values)
-# combined_text = hstack([transformed_text, X_rules_test])
-# predict = model.predict(combined_text)[0]
-
-# prediction = 'APA' if (predict == 1) else 'NotAPA'
-
-# print(text)
-# print(predict)
-# print(prediction)
-
-# tokens = cv.build_tokenizer()(new_data['text'])
-# print(tokens)
-
-
-# Exporting the model to plk format
 joblib.dump(model, 'APA_model.pkl')
 joblib.dump(cv, 'vectorizer.pkl')
 

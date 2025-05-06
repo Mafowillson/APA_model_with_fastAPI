@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 import os
 
-from app.features import extract_features, explain_violations
+from app.model.features import explain_violations
 from scipy.sparse import csr_matrix, hstack
 
 # Load model and vectorizer
