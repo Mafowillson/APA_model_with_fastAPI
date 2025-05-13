@@ -5,14 +5,15 @@ import seaborn as sns
 
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, mean_absolute_error, r2_score, mean_squared_error, confusion_matrix, classification_report
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics import accuracy_score, r2_score, confusion_matrix, classification_report
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from scipy.sparse import hstack, csr_matrix
-from app.model.features import extract_features
+from app.utils.features import extract_features
 import joblib
+import re
 
 
-df = pd.read_csv('../app/apa_reference_dataset.csv')
+df = pd.read_csv('test.csv')
 print(df.head(5))
 
 print(df.info())
@@ -21,7 +22,7 @@ print(df.describe())
 
 # 1. Convert cathegorical data to numeric data
 
-df['label'] = df['label'].map({'APA': 1, 'notAPA': 0})
+df['label'] = df['label'].map({'APA': 1, 'Not APA': 0})
 
 print(df)
 
@@ -32,7 +33,17 @@ y = df['label'].values
 
 # 3. Convert reference text numpy array
 
-cv = CountVectorizer()
+def custom_tokenizer(text):
+    # Tokenize while preserving punctuation and parentheses
+    tokens = re.findall(r"\w+|[\(\),.]", text)
+    return tokens
+
+cv = TfidfVectorizer(
+    analyzer='char',
+    ngram_range=(3, 5),  # Captures sequences like "(202"
+    max_features=2000,    # Limit feature explosion
+    lowercase=False 
+)
 X_text_vec = cv.fit_transform(X_text)
 
 # Add rule based features
@@ -80,7 +91,7 @@ print(r2_score(y_test, y_pred))
 
 # . Predict on new data
 
-joblib.dump(model, 'APA_model.pkl')
-joblib.dump(cv, 'vectorizer.pkl')
+joblib.dump(model, 'app/model/APA_model.pkl')
+joblib.dump(cv, 'app/model/vectorizer.pkl')
 
 

@@ -4,13 +4,13 @@ import numpy as np
 import joblib
 import os
 
-from app.model.features import explain_violations
+from app.utils.features import explain_violations
 from scipy.sparse import csr_matrix, hstack
 
 # Load model and vectorizer
 base_dir = os.path.dirname(__file__)
-model = joblib.load(os.path.join(base_dir, "APA_model.pkl"))
-vectorizer = joblib.load(os.path.join(base_dir, "vectorizer.pkl"))
+model = joblib.load(os.path.join(base_dir, "../app/model/APA_model.pkl"))
+vectorizer = joblib.load(os.path.join(base_dir, "../app/model/vectorizer.pkl"))
 
 app = FastAPI()
 
@@ -48,5 +48,5 @@ def predict_text(input_data: TextInput):
     }
 
     # test data
-        
+
     # Smith, J. (2020). The psychology of learning. Academic Press.

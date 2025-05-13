@@ -3,7 +3,7 @@ import re
 def extract_features(text):
     return {
         'has_year_parentheses': bool(re.search(r'\(\d{4}\)', text)),
-        'has_comma_after_author': bool(re.search(r'[A-Z][a-z]+, [A-Z]\.', text)),
+        'has_comma_after_author': bool(re.search(r'[A-Z][a-z]+,', text)),
         'has_period_after_initials': bool(re.search(r'[A-Z]\.', text)),
         'has_multiple_periods': text.count('.') >= 3,
         'has_et_al': 'et al.' in text.lower(),

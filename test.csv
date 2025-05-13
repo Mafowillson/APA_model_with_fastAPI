@@ -1,0 +1,101 @@
+reference_text,label,reason
+"Johnson, L. (2016). Understanding Cognitive Load Theory in Classrooms. Computing Reviews, 20, 10-131. https://sciencenews.org/view",APA,All rules passed
+"Martinez, J, Davis, E, Smith, T (2017) The Rise of Quantum Computing in Modern Science Nature Neuroscience, 3, 24-172 https://wwwexamplecom/article",Not APA,Used incorrect punctuation or capitalization rules.
+"Garcia, L., Johnson, M., Jones, A. (2006). Neural Mechanisms of Visual Perception. Computing Reviews, 3, 57-193. https://www.example.com/article",APA,All rules passed
+Martinez. E. (2018). The Rise of Quantum Computing in Modern Science. Medical Science Monitor. 34. 94-155. https://journalhub.com,Not APA,"Citation follows outdated APA (e.g., APA 6) rules."
+"Lee, E. (2012). AI Applications in Predictive Healthcare. Medical Science Monitor, 22, 65-194. https://doi.org/10.1000/xyz123",APA,All rules passed
+"Martinez, M., Brown, J. (2021). Understanding Cognitive Load Theory in Classrooms. Journal of Psychology, 48, 65-117. https://journalhub.com",Not APA,Used the wrong format for the cited source type.
+"Brown, L. (2008). Climate Change Effects on Marine Biodiversity. Computing Reviews, 13, 10-117. https://researchhub.org/post",APA,All rules passed
+Brown. J. (2006). AI Applications in Predictive Healthcare. Medical Science Monitor. 24. 11-175. https://doi.org/10.1000/xyz123,Not APA,"Citation follows outdated APA (e.g., APA 6) rules."
+"Brown, M., Jones, J., Garcia, A. (2008). Neural Mechanisms of Visual Perception. Educational Researcher, 40, 8-178. https://sciencenews.org/view",APA,All rules passed
+"Williams, B, Jones, M (2000) The Rise of Quantum Computing in Modern Science Computing Reviews, 19, 39-183 https://researchhuborg/post",Not APA,Used incorrect punctuation or capitalization rules.
+"Lee, A., Smith, M., Jones, M. (2011). Neural Mechanisms of Visual Perception. Journal of Psychology, 44, 62-115. https://journalhub.com",APA,All rules passed
+"Williams, A., Jones, N. AI Applications in Predictive Healthcare. Medical Science Monitor, 30, 63-128. https://journalhub.com",Not APA,The citation is missing the work's title.
+"Davis, T., Miller, M., Garcia, L. (2010). Neural Mechanisms of Visual Perception. Journal of Psychology, 45, 68-141. https://www.example.com/article",APA,All rules passed
+"Johnson, M., Brown, M., Smith, J. The Rise of Quantum Computing in Modern Science. Journal of Psychology, 33, 34-110. https://journalhub.com",Not APA,The citation is missing the work's title.
+"Lee, E. (2001). Climate Change Effects on Marine Biodiversity. Nature Neuroscience, 7, 68-178. https://sciencenews.org/view",APA,All rules passed
+"Garcia, L. (2022). Climate Change Effects on Marine Biodiversity. Medical Science Monitor, 23, 54-121. https://www.example.com/article",Not APA,Used the wrong format for the cited source type.
+"Lee, M., Jones, T. (2021). Climate Change Effects on Marine Biodiversity. Computing Reviews, 30, 33-179. https://researchhub.org/post",APA,All rules passed
+"(Davis, 2012)",Not APA,Used in-text citation format instead of reference list style.
+"Brown, M., Lee, E. (2004). Climate Change Effects on Marine Biodiversity. Nature Neuroscience, 40, 32-161. https://www.example.com/article",APA,All rules passed
+Davis. B.. Smith. J.. Davis. M. (2018). Neural Mechanisms of Visual Perception. Educational Researcher. 50. 37-196. https://doi.org/10.1000/xyz123,Not APA,"Citation follows outdated APA (e.g., APA 6) rules."
+"Williams, M. (2002). AI Applications in Predictive Healthcare. Nature Neuroscience, 19, 24-115. https://sciencenews.org/view",APA,All rules passed
+"Davis et al. . The Rise of Quantum Computing in Modern Science. Journal of Psychology, 23, 30-167. https://doi.org/10.1000/xyz123",Not APA,Incorrect application of 'et al.' for multiple authors.
+"Johnson, B. (2016). The Rise of Quantum Computing in Modern Science. Medical Science Monitor, 10, 38-148. https://sciencenews.org/view",APA,All rules passed
+"Davis, E., Williams, E. (2017). Neural Mechanisms of Visual Perception. _Educational Researcher, 46, 30-115. https://journalhub.com",Not APA,"Inconsistent formatting across elements (e.g., italics, periods)."
+"Miller, J. (2018). AI Applications in Predictive Healthcare. Nature Neuroscience, 39, 49-133. https://sciencenews.org/view",APA,All rules passed
+"Miller, T., Garcia, E. (2017). Understanding Cognitive Load Theory in Classrooms. Journal of Psychology, 11, 74-169. https://doi.org/10.1000/xyz123",Not APA,Used the wrong format for the cited source type.
+"Lee, J., Brown, J., Garcia, J. (2002). Climate Change Effects on Marine Biodiversity. Journal of Psychology, 43, 11-115. https://journalhub.com",APA,All rules passed
+Alice Johnson. Neural Mechanisms of Visual Perception. Retrieved from https://researchhub.org/post,Not APA,Citation copied from a citation generator with errors.
+"Miller, M., Jones, E., Johnson, A. (2008). Climate Change Effects on Marine Biodiversity. Educational Researcher, 12, 87-199. https://journalhub.com",APA,All rules passed
+"Johnson, N., Garcia, J., Williams, T. (2014). Neural Mechanisms of Visual Perception. _Journal of Psychology, 22, 4-110. https://www.example.com/article",Not APA,"Inconsistent formatting across elements (e.g., italics, periods)."
+"Brown, L. (2020). Neural Mechanisms of Visual Perception. Computing Reviews, 41, 43-180. https://researchhub.org/post",APA,All rules passed
+"Johnson, J, Brown, T (2023) The Rise of Quantum Computing in Modern Science Educational Researcher, 50, 86-172 https://wwwexamplecom/article",Not APA,Used incorrect punctuation or capitalization rules.
+"Davis, A., Smith, J. (2018). Climate Change Effects on Marine Biodiversity. Journal of Psychology, 33, 76-199. https://journalhub.com",APA,All rules passed
+"Williams, T, Johnson, T (2006) The Rise of Quantum Computing in Modern Science Educational Researcher, 37, 14-143 https://wwwexamplecom/article",Not APA,Used incorrect punctuation or capitalization rules.
+"Smith, L., Miller, E. (2010). Neural Mechanisms of Visual Perception. Computing Reviews, 15, 20-160. https://doi.org/10.1000/xyz123",APA,All rules passed
+"(Johnson, 2022)",Not APA,Used in-text citation format instead of reference list style.
+"Johnson, T., Miller, J., Garcia, B. (2022). Climate Change Effects on Marine Biodiversity. Computing Reviews, 41, 36-154. https://www.example.com/article",APA,All rules passed
+"Jones et al. . The Rise of Quantum Computing in Modern Science. Computing Reviews, 43, 54-124. https://doi.org/10.1000/xyz123",Not APA,Incorrect application of 'et al.' for multiple authors.
+"Smith, T., Jones, T. (2006). Neural Mechanisms of Visual Perception. Medical Science Monitor, 23, 80-180. https://sciencenews.org/view",APA,All rules passed
+Lee E. Jones L. Johnson M. (2003). AI Applications in Predictive Healthcare. Journal of Psychology 34 61-118. https://sciencenews.org/view,Not APA,Author name not inverted or improperly abbreviated.
+"Brown, M., Davis, A. (2000). The Rise of Quantum Computing in Modern Science. Medical Science Monitor, 41, 5-157. https://journalhub.com",APA,All rules passed
+"Williams, B., Martinez, J., Lee, M. (2019). The Rise of Quantum Computing in Modern Science. _Journal of Psychology, 5, 27-111. https://www.example.com/article",Not APA,"Inconsistent formatting across elements (e.g., italics, periods)."
+"Jones, N. (2019). Neural Mechanisms of Visual Perception. Computing Reviews, 43, 45-132. https://journalhub.com",APA,All rules passed
+"Smith, L., Martinez, E. AI Applications in Predictive Healthcare. Journal of Psychology, 33, 36-108. https://journalhub.com",Not APA,The citation is missing the work's title.
+"Smith, A., Miller, J. (2010). AI Applications in Predictive Healthcare. Journal of Psychology, 10, 29-151. https://researchhub.org/post",APA,All rules passed
+Garcia. E.. Garcia. T. (2006). Neural Mechanisms of Visual Perception. Medical Science Monitor. 16. 35-195. https://doi.org/10.1000/xyz123,Not APA,"Citation follows outdated APA (e.g., APA 6) rules."
+"Jones, E. (2004). The Rise of Quantum Computing in Modern Science. Nature Neuroscience, 7, 38-154. https://www.example.com/article",APA,All rules passed
+". Understanding Cognitive Load Theory in Classrooms. Computing Reviews, 49, 30-178. https://journalhub.com",Not APA,The citation is missing an author.
+"Garcia, A., Williams, M., Miller, J. (2021). AI Applications in Predictive Healthcare. Computing Reviews, 36, 8-155. https://www.example.com/article",APA,All rules passed
+"(Williams, 2005)",Not APA,Used in-text citation format instead of reference list style.
+"Johnson, L. (2007). Climate Change Effects on Marine Biodiversity. Educational Researcher, 31, 41-137. https://doi.org/10.1000/xyz123",APA,All rules passed
+"Jones et al. . Climate Change Effects on Marine Biodiversity. Medical Science Monitor, 3, 48-200. https://doi.org/10.1000/xyz123",Not APA,Incorrect application of 'et al.' for multiple authors.
+"Lee, A. (2012). Understanding Cognitive Load Theory in Classrooms. Computing Reviews, 47, 55-153. https://doi.org/10.1000/xyz123",APA,All rules passed
+". The Rise of Quantum Computing in Modern Science. Computing Reviews, 5, 41-108. https://sciencenews.org/view",Not APA,The citation is missing an author.
+"Brown, A., Martinez, E. (2009). Neural Mechanisms of Visual Perception. Educational Researcher, 25, 24-198. https://www.example.com/article",APA,All rules passed
+Miller N. Garcia L. Garcia E. (2008). Understanding Cognitive Load Theory in Classrooms. Medical Science Monitor 41 81-149. https://sciencenews.org/view,Not APA,Author name not inverted or improperly abbreviated.
+"Williams, L., Davis, N. (2014). Climate Change Effects on Marine Biodiversity. Medical Science Monitor, 4, 49-177. https://doi.org/10.1000/xyz123",APA,All rules passed
+Lee. B.. Davis. A.. Lee. A. (2010). AI Applications in Predictive Healthcare. Educational Researcher. 19. 25-110. https://researchhub.org/post,Not APA,"Citation follows outdated APA (e.g., APA 6) rules."
+"Lee, T. (2000). Climate Change Effects on Marine Biodiversity. Journal of Psychology, 14, 77-131. https://researchhub.org/post",APA,All rules passed
+"Davis, A., Williams, J. (2000). Neural Mechanisms of Visual Perception. Nature Neuroscience, 20, 53-101. https://www.example.com/article",Not APA,Used the wrong format for the cited source type.
+"Johnson, E., Williams, J., Brown, M. (2003). Understanding Cognitive Load Theory in Classrooms. Medical Science Monitor, 50, 35-151. https://doi.org/10.1000/xyz123",APA,All rules passed
+"Miller, B., Smith, M., Brown, L. . Understanding Cognitive Load Theory in Classrooms. Educational Researcher, 17, 10-197. https://www.example.com/article",Not APA,The citation is missing the publication date.
+"Martinez, N., Williams, B. (2023). Neural Mechanisms of Visual Perception. Computing Reviews, 26, 78-103. https://sciencenews.org/view",APA,All rules passed
+Lee M. (2008). Understanding Cognitive Load Theory in Classrooms. Computing Reviews 19 52-156. https://journalhub.com,Not APA,Author name not inverted or improperly abbreviated.
+"Smith, B., Martinez, T., Miller, T. (2023). The Rise of Quantum Computing in Modern Science. Medical Science Monitor, 35, 21-173. https://journalhub.com",APA,All rules passed
+"Garcia, L. (2010). Understanding Cognitive Load Theory in Classrooms. _Computing Reviews, 49, 16-126. https://journalhub.com",Not APA,"Inconsistent formatting across elements (e.g., italics, periods)."
+"Williams, N., Davis, J., Jones, M. (2001). AI Applications in Predictive Healthcare. Educational Researcher, 17, 79-176. https://doi.org/10.1000/xyz123",APA,All rules passed
+Davis. A. (2011). Neural Mechanisms of Visual Perception. Medical Science Monitor. 37. 63-132. https://www.example.com/article,Not APA,"Citation follows outdated APA (e.g., APA 6) rules."
+"Davis, B., Williams, E., Davis, M. (2023). Understanding Cognitive Load Theory in Classrooms. Medical Science Monitor, 30, 50-142. https://journalhub.com",APA,All rules passed
+Davis. J. (2011). Understanding Cognitive Load Theory in Classrooms. Educational Researcher. 12. 61-163. https://sciencenews.org/view,Not APA,"Citation follows outdated APA (e.g., APA 6) rules."
+"Lee, B. (2019). Understanding Cognitive Load Theory in Classrooms. Medical Science Monitor, 43, 99-187. https://researchhub.org/post",APA,All rules passed
+". AI Applications in Predictive Healthcare. Medical Science Monitor, 4, 50-172. https://doi.org/10.1000/xyz123",Not APA,The citation is missing an author.
+"Garcia, M. (2017). Climate Change Effects on Marine Biodiversity. Computing Reviews, 32, 58-135. https://sciencenews.org/view",APA,All rules passed
+"Lee, L., Brown, J. (2010). AI Applications in Predictive Healthcare. _Medical Science Monitor, 25, 35-193. https://www.example.com/article",Not APA,"Inconsistent formatting across elements (e.g., italics, periods)."
+"Davis, B. (2013). AI Applications in Predictive Healthcare. Educational Researcher, 50, 79-107. https://sciencenews.org/view",APA,All rules passed
+"Davis, M. (2022). AI Applications in Predictive Healthcare. Nature Neuroscience, 34, 63-108. https://www.example",Not APA,Key publisher or retrieval information is omitted.
+"Williams, N. (2021). The Rise of Quantum Computing in Modern Science. Educational Researcher, 12, 87-146. https://researchhub.org/post",APA,All rules passed
+". AI Applications in Predictive Healthcare. Medical Science Monitor, 11, 22-192. https://journalhub.com",Not APA,The citation is missing an author.
+"Martinez, L. (2000). Climate Change Effects on Marine Biodiversity. Educational Researcher, 38, 92-145. https://journalhub.com",APA,All rules passed
+"Smith, A., Lee, T., Jones, A. Neural Mechanisms of Visual Perception. Computing Reviews, 4, 44-177. https://researchhub.org/post",Not APA,The citation is missing the work's title.
+"Smith, J., Johnson, J. (2001). Climate Change Effects on Marine Biodiversity. Computing Reviews, 16, 84-101. https://journalhub.com",APA,All rules passed
+Maria Williams. The Rise of Quantum Computing in Modern Science. Retrieved from https://researchhub.org/post,Not APA,Citation copied from a citation generator with errors.
+"Garcia, M., Smith, T. (2002). Neural Mechanisms of Visual Perception. Nature Neuroscience, 6, 88-156. https://doi.org/10.1000/xyz123",APA,All rules passed
+Martinez. J.. Lee. M. (2010). Climate Change Effects on Marine Biodiversity. Medical Science Monitor. 3. 68-148. https://doi.org/10.1000/xyz123,Not APA,"Citation follows outdated APA (e.g., APA 6) rules."
+"Brown, M. (2009). The Rise of Quantum Computing in Modern Science. Nature Neuroscience, 23, 64-124. https://sciencenews.org/view",APA,All rules passed
+"(Davis, 2002)",Not APA,Used in-text citation format instead of reference list style.
+"Miller, J., Miller, M., Martinez, M. (2010). The Rise of Quantum Computing in Modern Science. Educational Researcher, 10, 86-118. https://doi.org/10.1000/xyz123",APA,All rules passed
+"Williams, J., Davis, L. Understanding Cognitive Load Theory in Classrooms. Computing Reviews, 34, 70-138. https://www.example.com/article",Not APA,The citation is missing the work's title.
+"Garcia, N., Jones, N. (2017). Climate Change Effects on Marine Biodiversity. Educational Researcher, 20, 5-108. https://sciencenews.org/view",APA,All rules passed
+"Martinez, J., Johnson, N. Climate Change Effects on Marine Biodiversity. Nature Neuroscience, 50, 40-128. https://sciencenews.org/view",Not APA,The citation is missing the work's title.
+"Williams, J., Martinez, E., Davis, L. (2020). Understanding Cognitive Load Theory in Classrooms. Medical Science Monitor, 10, 97-192. https://doi.org/10.1000/xyz123",APA,All rules passed
+"(Johnson, 2002)",Not APA,Used in-text citation format instead of reference list style.
+"Williams, N., Miller, L. (2019). The Rise of Quantum Computing in Modern Science. Educational Researcher, 35, 73-102. https://sciencenews.org/view",APA,All rules passed
+"Brown, A. AI Applications in Predictive Healthcare. Journal of Psychology, 32, 32-116. https://sciencenews.org/view",Not APA,The citation is missing the work's title.
+"Brown, N. (2006). Neural Mechanisms of Visual Perception. Medical Science Monitor, 8, 8-170. https://sciencenews.org/view",APA,All rules passed
+"Johnson, A. (2001). The Rise of Quantum Computing in Modern Science. Computing Reviews, 11, 46-176. https://www.example.com/article",Not APA,Used the wrong format for the cited source type.
+"Jones, B., Davis, A. (2015). Understanding Cognitive Load Theory in Classrooms. Journal of Psychology, 36, 24-121. https://researchhub.org/post",APA,All rules passed
+Martinez. M.. Johnson. B.. Johnson. N. (2012). AI Applications in Predictive Healthcare. Medical Science Monitor. 40. 69-184. https://sciencenews.org/view,Not APA,"Citation follows outdated APA (e.g., APA 6) rules."
+"Smith, E. (2005). Understanding Cognitive Load Theory in Classrooms. Computing Reviews, 45, 21-138. https://journalhub.com",APA,All rules passed
+"Martinez, M, Davis, B (2019) The Rise of Quantum Computing in Modern Science Journal of Psychology, 46, 4-119 https://journalhubcom",Not APA,Used incorrect punctuation or capitalization rules.
