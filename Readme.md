@@ -42,11 +42,13 @@ APA_citation_model/
 
 python -m venv venv
 source venv/bin/activate    # On Windows: venv\Scripts\activate
+
 📦 Install dependencies
 
 pip install -r requirements.txt
 
 ▶️ Run the app locally
+
 uvicorn app.main_file:app --reload
 
 
@@ -55,7 +57,8 @@ Go to: http://127.0.0.1:8000/docs
 
 📤 API Endpoints
 POST /predict
-✅ Input: Text or .docx file
+
+✅ Input: .docx or pdf file
 
 file upload (.docx) or (pdf) containing a References section.
 
@@ -72,5 +75,27 @@ file upload (.docx) or (pdf) containing a References section.
     }
   ]
 }
+
+🤖 Model Info
+
+Model: Scikit-learn classifier trained to identify APA citations
+
+Features: Combination of vectorized text and rule-based indicators
+
+Format: Saved using joblib
+
+🛠️ Future Improvements
+
+Improve reference parsing logic
+
+Add support for batch predictions via API
+
+📬 Contact
+For questions or feedback, feel free to open an issue or reach out.
+
+📄 License
+MIT License – see LICENSE file for details.
+
+
 
 
